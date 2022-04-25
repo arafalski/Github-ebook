@@ -9,5 +9,5 @@ Po kliknięciu w przycisk GitHub zapyta nas jak chcemy nazwać naszego forka. Do
 Po kliknięciu w przycisk zostaniemy automatycznie przeniesieni na stronę naszego forka.
 Rozwiązania zadań powinniśmy umieszczać na odpowiednich gałęziach (*ang. branch*).
 Gałąź możemy wybrać klikając na nazwę aktualnej gałęzi w lewym górnym rogu (w naszym przypadku `main`), a następnie klikamy w nazwę gałęzi, na którą chcemy się przełączyć.
-Przykładowo, jeśli chcemy dostarczyć rozwiązanie zadania `fibonacci` wybieramy gałąź o tej samej nazwie.
+W naszym przykładzie chcemy dostarczyć rozwiązanie zadania `fibonacci`, dlatego wybieramy gałąź o tej samej nazwie.
 ![Wybór brancha](img/branch_selection.png)

@@ -21,5 +21,5 @@ Jeśli chcemy wprowadzić zmiany w pliku, klikamy na przycisk z ikonką ołówka
 ![Wejście w tryb edycji](img/edit.png)
 
 Naszym oczom ukaże się edytor, w którym możemy wprowadzić nasze rozwiązanie zadania.
-Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co oczywiście nie jest poprawnym rozwiązaniem 😉).
+Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co oczywiście nie jest poprawnym rozwiązaniem 😉). Dobrze jest też usunąć komentarze zaczynające się od `TODO:` jeśli zrobiliśmy implementację rozwiązania.
 ![Edycja pliku](img/edited_file.png)

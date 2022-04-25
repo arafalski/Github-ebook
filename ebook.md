@@ -23,3 +23,6 @@ Jeśli chcemy wprowadzić zmiany w pliku, klikamy na przycisk z ikonką ołówka
 Naszym oczom ukaże się edytor, w którym możemy wprowadzić nasze rozwiązanie zadania.
 Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co oczywiście nie jest poprawnym rozwiązaniem 😉). Dobrze jest też usunąć komentarze zaczynające się od `TODO:` jeśli zrobiliśmy implementację rozwiązania.
 ![Edycja pliku](img/edited_file.png)
+
+Jeśli uważamy, że nasza implementacja jest gotowa, to pod edytorem mamy możliwość utworzenia commita z naszymi zmianami. Możemy tam podać nazwę commita (np. My implementation). Możemy też wybrać czy zmiany chcemy dodać do gałęzi, na której się znajdujemy, czy do nowo utworzonej. Jeśli pracujemy na swoim forku, to wybieramy tę pierwszą opcję.
+![Tworzenie commita](img/commit.png)

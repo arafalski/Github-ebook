@@ -24,5 +24,15 @@ Naszym oczom ukaże się edytor, w którym możemy wprowadzić nasze rozwiązani
 Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co oczywiście nie jest poprawnym rozwiązaniem 😉). Dobrze jest też usunąć komentarze zaczynające się od `TODO:` jeśli zrobiliśmy implementację rozwiązania.
 ![Edycja pliku](img/edited_file.png)
 
-Jeśli uważamy, że nasza implementacja jest gotowa, to pod edytorem mamy możliwość utworzenia commita z naszymi zmianami. Możemy tam podać nazwę commita (np. My implementation). Możemy też wybrać czy zmiany chcemy dodać do gałęzi, na której się znajdujemy, czy do nowo utworzonej. Jeśli pracujemy na swoim forku, to wybieramy tę pierwszą opcję.
+Jeśli uważamy, że nasza implementacja jest gotowa, to pod edytorem mamy możliwość utworzenia commita z naszymi zmianami.
+Możemy tam podać nazwę commita (np. My implementation).
+Możemy też wybrać czy zmiany chcemy dodać do gałęzi, na której się znajdujemy, czy do nowo utworzonej.
+Jeśli pracujemy na swoim forku, to wybieramy tę pierwszą opcję. Klikamy na przycisk `Commit changes`.
 ![Tworzenie commita](img/commit.png)
+
+Po dodaniu commita implementacja znajduje się już na naszym forku.
+Jeśli chcemy ją dostarczyć do pierwotnego repozytorium, klikamy na zakładkę `Code`.
+Możemy zauważyć baner informujący nas, że na gałęzi `fibonacci` znajduje się 1 zmiana więcej niż na pierwotnym repozytorium.
+Klikamy na przycisk `Contribute`, a następnie na `Open pull request`.
+![Contribute](img/contribute.png)
+![Tworzenie pull requesta](img/open_pr.png)

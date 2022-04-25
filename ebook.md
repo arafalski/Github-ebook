@@ -11,3 +11,7 @@ Rozwiązania zadań powinniśmy umieszczać na odpowiednich gałęziach (*ang. b
 Gałąź możemy wybrać klikając na nazwę aktualnej gałęzi w lewym górnym rogu (w naszym przypadku `main`), a następnie klikamy w nazwę gałęzi, na którą chcemy się przełączyć.
 W naszym przykładzie chcemy dostarczyć rozwiązanie zadania `fibonacci`, dlatego wybieramy gałąź o tej samej nazwie.
 ![Wybór brancha](img/branch_selection.png)
+
+Po przejściu na odpowiednią gałąź, przechodzimy do folderu z zadaniem domowym (w przypadku `homework/fibonacci`), a następnie wybieramy plik, w którym znajduje się implementacja zadania domowego (`fibonacci.hpp`).
+![Wybór folderu z zadaniem domowym](img/directory_selection.png)
+![Wybór pliku z implementcją](img/file_selection.png)

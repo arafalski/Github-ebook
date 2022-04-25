@@ -15,3 +15,11 @@ W naszym przykładzie chcemy dostarczyć rozwiązanie zadania `fibonacci`, dlate
 Po przejściu na odpowiednią gałąź, przechodzimy do folderu z zadaniem domowym (w przypadku `homework/fibonacci`), a następnie wybieramy plik, w którym znajduje się implementacja zadania (`fibonacci.hpp`).
 ![Wybór folderu z zadaniem domowym](img/directory_selection.png)
 ![Wybór pliku z implementcją](img/file_selection.png)
+
+
+Jeśli chcemy wprowadzić zmiany w pliku, klikamy na przycisk z ikonką ołówka.
+![Wejście w tryb edycji](img/edit.png)
+
+Naszym oczom ukaże się edytor, w którym możemy wprowadzić nasze rozwiązanie zadania.
+Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co oczywiście nie jest poprawnym rozwiązaniem 😉).
+![Edycja pliku](img/edited_file.png)

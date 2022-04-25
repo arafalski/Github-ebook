@@ -12,6 +12,6 @@ Gałąź możemy wybrać klikając na nazwę aktualnej gałęzi w lewym górnym 
 W naszym przykładzie chcemy dostarczyć rozwiązanie zadania `fibonacci`, dlatego wybieramy gałąź o tej samej nazwie.
 ![Wybór brancha](img/branch_selection.png)
 
-Po przejściu na odpowiednią gałąź, przechodzimy do folderu z zadaniem domowym (w przypadku `homework/fibonacci`), a następnie wybieramy plik, w którym znajduje się implementacja zadania domowego (`fibonacci.hpp`).
+Po przejściu na odpowiednią gałąź, przechodzimy do folderu z zadaniem domowym (w przypadku `homework/fibonacci`), a następnie wybieramy plik, w którym znajduje się implementacja zadania (`fibonacci.hpp`).
 ![Wybór folderu z zadaniem domowym](img/directory_selection.png)
 ![Wybór pliku z implementcją](img/file_selection.png)

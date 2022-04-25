@@ -40,3 +40,11 @@ Możemy zauważyć baner informujący nas, że na gałęzi `fibonacci` znajduje 
 Klikamy na przycisk `Contribute`, a następnie na `Open pull request`.
 ![Contribute](img/contribute.png)
 ![Tworzenie pull requesta](img/open_pr.png)
+
+Następnie możemy nadać naszemu pull requestowi nazwę (np. My implementation).
+![Otworzenie PRa](img/pr_opening.png)
+
+Poniżej możemy zobaczyć jakie zmiany chcemy zgłosić w pull requestcie.
+![Zmiany PR](img/pr_changes.png)
+
+Jeśli wszystko się zgadza, możemy kliknąć na zielony przycisk `Create pull request`.

@@ -48,3 +48,18 @@ Poniżej możemy zobaczyć jakie zmiany chcemy zgłosić w pull requestcie.
 ![Zmiany PR](img/pr_changes.png)
 
 Jeśli wszystko się zgadza, możemy kliknąć na zielony przycisk `Create pull request`.
+
+Czasem w zakładce `Code` nie pojawia się informacja o nowych zmianach, ponieważ po pewnym czasie od wprowadzenia zmian znika ona automatycznie.
+Jeśli tak się stanie, możemy stworzyć pull requesta w inny sposób.
+W tym celu wybieramy zakładkę `Pull requests`.
+![Zakładka Pull requests](img/pull_request.png)
+
+Następnie klikamy na zielony przycisk `New pull request`.
+Upewniamy się, że zostały wybrane odpowiednie repozytoria oraz gałęzie.
+W naszym przypadku powinny być wybrane:
+* base repository: `coders-school/cpp-fundamentals`, branch: `fibonacci`
+* head repository: nasze repozytorium oraz branch `fibonacci`
+![Wybór branchów](img/branch_pr_select.png)
+
+Jeśli wszystko jest w porządku, klikamy na przycisk `Create pull request`.
+Następnie możemy kontynuować tworzenie pull requesta tak jak w poprzednim przypadku.

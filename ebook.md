@@ -77,3 +77,25 @@ Jeśli chcemy zobaczyć szczegółowe informacje na temat wyników poszczególny
 
 W zakładce `Run tests` możemy zobaczyć dlaczego testy nie zadziałały.
 ![Podsumowanie wyników](img/test_summary.png)
+
+## Poprawienie implementacji
+Jeśli chcemy poprawić naszą implementację, przechodzimy do naszego forka (możemy skorzystać z wyszukiwarki w górnym lewym rogu).
+Następnie przełączamy się na odpowiednią gałąź (w naszym przypadku `fibonacci`), wybieramy plik z naszą implementacją i ponownie przechodzimy do jego edycji (ikonka z ołówkiem).
+Wprowadzamy zmiany, które według nas mają poprawić implementację.
+W naszym przypadku zmieniliśmy wartości zwracane przez funkcje na 2.
+![Edycja implementacji](img/second_edit.png)
+
+Po wprowadzeniu zmian, ponownie dodajemy commita.
+![Drugi commit](img/second_commit.png)
+
+Po dodaniu commita, nie musimy ponownie zgłaszać pull requesta, ponieważ zaktualizuje się on automatycznie.
+
+Jeśli chcemy zobaczyć wyniki testów po naszej zmienia implementacji, przechodzimy na bazowe repozytorium np. klikając na link z jego nazwą (`forked from ...`)
+![Przejście na bazowe repo](img/change_repo.png)
+
+Następnie przechodzimy do zakładki `Pull requests` oraz wybieramy naszego pull requesta z listy.
+![Wybór naszego pull requesta](img/pr_select.png)
+
+Oczywiście nasza implementacja nie jest poprawna, więc ponownie testy nie przejdą.
+Jeśli jednak udałoby się nam poprawnie rozwiązać zadanie, w miejscu ❌ pojawi się ✅.
+![Drugie niepowodzenie](img/second_fail.png)

@@ -63,3 +63,17 @@ W naszym przypadku powinny być wybrane:
 
 Jeśli wszystko jest w porządku, klikamy na przycisk `Create pull request`.
 Następnie możemy kontynuować tworzenie pull requesta tak jak w poprzednim przypadku.
+
+## Wyniki testów
+Po zgłoszeniu pull requesta testy sprawdzające poprawność naszej implementacji zostaną uruchomione automatycznie.
+Stan wykonywania testów możemy obserwować w dolnej części strony.
+![Oczekiwanie na wynik testów](img/pr_created.png)
+
+W przypadku naszej implementacji testy oczywiście nie przejdą, o czym zostaniemy poinformowani symbolem ❌.
+![Wynik testów](img/test_failed.png)
+
+Jeśli chcemy zobaczyć szczegółowe informacje na temat wyników poszczególnych testów, możemy kliknąć na przycisk `Details`.
+![Przycisk Details](img/test_details.png)
+
+W zakładce `Run tests` możemy zobaczyć dlaczego testy nie zadziałały.
+![Podsumowanie wyników](img/test_summary.png)

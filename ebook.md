@@ -27,8 +27,8 @@ Przykładowo zmienimy wartości zwracane przez obie funkcje na 1 zamiast 0 (co o
 ![Edycja pliku](img/edited_file.png)
 
 ## Dodanie commita z wprowadzonymi zmianami
-Jeśli uważamy, że nasza implementacja jest gotowa, to pod edytorem mamy możliwość utworzenia commita z naszymi zmianami.
-Możemy tam podać nazwę commita (np. My implementation).
+Jeśli uważamy, że nasza implementacja jest gotowa, to pod edytorem mamy możliwość zatwierdzenia naszych zmian (lub bardziej nerdowsko - utworzenia commita z naszymi zmianami).
+Możemy tam podać nazwę commita (np. Add fibonacci implementation).
 Możemy też wybrać czy zmiany chcemy dodać do gałęzi, na której się znajdujemy, czy do nowo utworzonej.
 Jeśli pracujemy na swoim forku, to wybieramy tę pierwszą opcję. Klikamy na przycisk `Commit changes`.
 ![Tworzenie commita](img/commit.png)
@@ -75,7 +75,7 @@ W przypadku naszej implementacji testy oczywiście nie przejdą, o czym zostanie
 Jeśli chcemy zobaczyć szczegółowe informacje na temat wyników poszczególnych testów, możemy kliknąć na przycisk `Details`.
 ![Przycisk Details](img/test_details.png)
 
-W zakładce `Run tests` możemy zobaczyć dlaczego testy nie zadziałały.
+W zakładce `Run tests` możemy zobaczyć dlaczego testy nie przeszły.
 ![Podsumowanie wyników](img/test_summary.png)
 
 ## Poprawienie implementacji
@@ -90,7 +90,7 @@ Po wprowadzeniu zmian, ponownie dodajemy commita.
 
 Po dodaniu commita, nie musimy ponownie zgłaszać pull requesta, ponieważ zaktualizuje się on automatycznie.
 
-Jeśli chcemy zobaczyć wyniki testów po naszej zmienia implementacji, przechodzimy na bazowe repozytorium np. klikając na link z jego nazwą (`forked from ...`)
+Jeśli chcemy zobaczyć wyniki testów po naszej zmienionej implementacji, przechodzimy na bazowe repozytorium np. klikając na link z jego nazwą (`forked from ...`)
 ![Przejście na bazowe repo](img/change_repo.png)
 
 Następnie przechodzimy do zakładki `Pull requests` oraz wybieramy naszego pull requesta z listy.

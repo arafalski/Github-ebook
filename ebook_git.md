@@ -117,6 +117,7 @@ git config --global user.email "jan@kowalski.com"
 ```
 git config --global user.name "Jan Kowalski"
 ```
+Po dodaniu naszych danych do konfiguracji możemy już ponownie dodać commita korzystając z polecenia `git commit -m <nazwa_commita>`.
 
 Po dodaniu naszych zmian możemy sprawdzić, czy faktycznie zostały one dodane, korzystając z polecenia `git log --oneline`.
 Wyświetlona zostanie historia dodanych commitów.
